@@ -19,3 +19,4 @@ a3 = int(input("c : "))
 ans = max_from_three(a1,a2,a3)
 
 print (ans)
+# maxfrom three
